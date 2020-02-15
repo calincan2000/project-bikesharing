@@ -1,0 +1,3 @@
+# Project bikesharing
+In this project, you'll build your first neural network and use it to predict daily bike rental ridership. We've provided some of the code, but left the implementation of the neural network up to you (for the most part). After you've submitted this project, feel free to explore the data and the model more.
+ Build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground, much better understanding of gradient descent, backpropagation, and other concepts that are important to know before to move to higher level tools such as PyTorch.
